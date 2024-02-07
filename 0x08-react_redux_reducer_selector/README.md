@@ -1,1 +1,1 @@
-reducer
+## React Redux reducer+selector
