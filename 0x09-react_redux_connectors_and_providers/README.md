@@ -1,1 +1,1 @@
-redux
+## React Redux Connectors and Providers
